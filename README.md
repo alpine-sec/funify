@@ -46,5 +46,8 @@ python3.11.exe funify.py -f .\comp001-fstl.csv
   <img src="https://github.com/alpine-sec/funify/assets/16635866/fb74c603-d9b6-4f50-8b2c-03b3288f5030" alt="Descripción de la imagen">
 </p>
 
+## Roadmap
 
-
+- [x] Classify files by file extension
+- [ ] Extract statistics from the decompressed files of a disk image and count.
+- [ ] Initial analysis of suspicious files with macros, PDFs, emails, etc.
