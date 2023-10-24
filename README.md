@@ -34,7 +34,7 @@ In summary and in the context of Malware Funneling, "funify.py" plays a signific
 
 
 ## Requirement
-Python installed.
+Python installation.
 
 ## Use
 ```
