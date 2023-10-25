@@ -50,4 +50,6 @@ python3.11.exe funify.py -f .\comp001-fstl.csv
 
 - [x] Classify files by file extension
 - [ ] Extract statistics from the decompressed files of a disk image and count.
-- [ ] Initial analysis of suspicious files with macros, PDFs, emails, etc.
+- [ ] Initial analysis of suspicious files with macros, PDFs, emails, lnk, etc.
+- [ ] classification of suspicious files.
+- [ ] recover deleted files.
