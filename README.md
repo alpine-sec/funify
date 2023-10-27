@@ -43,8 +43,9 @@ Usage: python3.11.exe funify.py [-h] [-V] -f FILE
 python3.11.exe funify.py -f .\comp001-fstl.csv
 ```
 <p align="center">
-  <img src="https://github.com/alpine-sec/funify/assets/16635866/fb74c603-d9b6-4f50-8b2c-03b3288f5030" alt="Descripción de la imagen">
+  <img src=https://github.com/alpine-sec/funify/assets/16635866/fb74c603-d9b6-4f50-8b2c-03b3288f5030](https://github.com/alpine-sec/funify/assets/16635866/6ec64b0a-e9f8-4e5c-bb98-6bc09615c52f alt="Descripción de la imagen">
 </p>
+
 
 ## Roadmap
 
