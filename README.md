@@ -45,11 +45,8 @@ Usage: python funify.py [-h] [-V] -f FILE
 python funify.py -f .\comp001-fstl.csv
 ```
 <p align="center">
-  <img src=https://github.com/alpine-sec/funify/assets/16635866/5d808f99-2626-412c-8787-a6057e9e6588 alt="Descripción de la imagen">
+  <img src="https://github.com/alpine-sec/funify/assets/16635866/72e64ee2-d3f5-4106-9ca7-18c3f62bb8ae" alt="Descripción de la imagen">
 </p>
-
-
-
 
 
 
